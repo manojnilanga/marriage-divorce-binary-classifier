@@ -1,0 +1,7 @@
+task = yelp
+mcc = 0.0
+tp = 0
+tn = 8
+fp = 0
+fn = 6
+eval_loss = 0.6530457735061646
